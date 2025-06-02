@@ -1,0 +1,11 @@
+.landingPage{
+    background-image: url('../../assets/LandingPage.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    /* padding: auto; */
+    /* margin-bottom: 10px; */
+}
